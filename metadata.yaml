@@ -25,6 +25,8 @@ creator:
     gutenberg_agent_id: '41655'
     url: http://www.gutenberg.org/2009/agents/41655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43956#Oeuvres-compl-tes-de-Chamfort--Vol.-4-5-la-vie-et-les--crits-de-l-auteur.
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2013-10-15'
 gutenberg_type: Text
