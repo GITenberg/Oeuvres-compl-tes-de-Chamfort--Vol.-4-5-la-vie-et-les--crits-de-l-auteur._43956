@@ -1,0 +1,42 @@
+_repo: Oeuvres-compl-tes-de-Chamfort--Vol.-4-5-la-vie-et-les--crits-de-l-auteur._43956
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43956-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chamfort, Sébastien-Roch-Nicolas
+    aliases:
+    - Champfort, Sebastien-Roch-Nicolas
+    - Nicolas, Sébastien Roch
+    - Chamfort, Sebastien-Roch-Nicolas
+    - Chamfort, M. de (Sébastien-Roch-Nicolas)
+    - Chamfort, N. (Nicolas)
+    deathdate: 1794
+    gutenberg_agent_id: '45470'
+    url: http://www.gutenberg.org/2009/agents/45470
+  editor:
+    agent_name: Auguis, P. R. (Pierre René)
+    aliases:
+    - Auguis, P. R. (Pierre Rene)
+    - Auguis, Pierre René
+    birthdate: 1786
+    deathdate: 1846
+    gutenberg_agent_id: '41655'
+    url: http://www.gutenberg.org/2009/agents/41655
+description: ''
+gutenberg_bookshelf: FR Littérature
+gutenberg_issued: '2013-10-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43956'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French literature -- 18th century'
+title: "Œuvres complètes de Chamfort (Tome 4)\r\nRecueillies et publiées, avec une\
+  \ notice historique sur la vie et les écrits de l'auteur."
+url: http://www.gutenberg.org/ebooks/43956
